@@ -1,6 +1,12 @@
 {
-  "name": "snippets",
+  "name": "snippetr",
   "version": "0.0.1",
+  "bin": "./bin/index.js",
+  "main": "./lib/snippetr.js",
+  "preferGlobal": true,
+  "engines": {
+    "node": ">=0.8"
+  },
   "dependencies": {
     "readdirp": "*",
     "async": "*",
