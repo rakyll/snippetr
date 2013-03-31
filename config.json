@@ -1,4 +1,5 @@
 {
+  "target": "_snippets",
   "repo": {
     "type": "git",
     "source": ""
@@ -7,6 +8,10 @@
     "tag": "python",
     "patterns": ["*.py"],
     "commentPre": "#"
+  }, {
+    "tag": "js",
+    "patterns": ["*.js"],
+    "commentPre": "//"
   }]
 }
 
