@@ -1,0 +1,12 @@
+{
+  "repo": {
+    "type": "git",
+    "source": ""
+  },
+  "languages": [{
+    "tag": "python",
+    "patterns": ["*.py"],
+    "commentPre": "#"
+  }]
+}
+
