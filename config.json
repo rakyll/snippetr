@@ -1,5 +1,6 @@
 {
   "target": "_snippets",
+  "tmp": ".tmp",
   "repo": {
     "type": "git",
     "source": ""
