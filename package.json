@@ -1,6 +1,7 @@
 {
   "name": "snippetr",
   "version": "0.0.1",
+  "author": "Burcu Dogan <jbd@google.com>",
   "bin": "./bin/index.js",
   "main": "./lib/snippetr.js",
   "preferGlobal": true,
